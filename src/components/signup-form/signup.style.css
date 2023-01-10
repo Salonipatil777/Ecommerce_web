@@ -1,0 +1,75 @@
+.box2 h2{
+    display: flex;
+    flex: 1 1;
+    flex-direction: column;
+    /* width: 380px; */
+    padding: 2px;
+    margin-top: 0;
+
+}
+
+.box2 h2{
+
+    margin: 10px 0;
+}
+
+/* .btns{
+    display: flex;
+    padding: 30px;
+    font-weight: 500;
+} */
+
+#signup{
+    /* background-color: rgb(23 192 23); */
+    background-color: black;
+    color: white;
+    /* width: 106px; */
+    margin-top: 10px;
+}
+
+#signup:hover{
+    background-color: transparent;
+    color: black;
+}
+
+
+/* #btn2{
+    margin-left: 70px;
+    border-radius: 0;
+} */
+
+.form1{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 70px;
+/*     
+    padding-right: 65px;
+    padding-left: 65px; */
+
+}
+
+@media screen and (max-width: 1000px) {
+    .form2 {
+      flex-direction: column;
+    }
+    .box2{
+        margin-right: 96px;
+        padding-left: 0px;
+        width: 305px;
+
+    }
+    .form1{
+        display: flex;
+        justify-content: space-between;
+        margin: 10px 20px;
+    /*     
+        padding-right: 65px;
+        padding-left: 65px; */
+    
+    }
+    input{
+        
+    width: 303px;
+
+    }
+  }

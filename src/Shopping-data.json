@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "Name":"Brown Brim",
+        "ImageUrl":"https://i.ibb.co/ZYW3VTp/brown-brim.png",
+        "Price":25
+    },
+    {
+        "id":2,
+        "Name":"Blue Beanie",
+        "ImageUrl":"https://i.ibb.co/ypkgK0X/blue-beanie.png",
+        "Price":18
+    },
+    {
+        "id":3,
+        "Name":"Brown Cowboy",
+        "ImageUrl":"https://i.ibb.co/QdJwgmp/brown-cowboy.png",
+        "Price":35
+    },
+    {
+        "id":4,
+        "Name":"Gray Brim",
+        "ImageUrl":"https://i.ibb.co/RjBLWxB/grey-brim.png",
+        "Price":25
+    },
+    {
+        "id":5,
+        "Name":"Green Beanie",
+        "ImageUrl":"https://i.ibb.co/YTjW3vF/green-beanie.png",
+        "Price":18
+    },
+    {
+        "id":6,
+        "Name":"Palm Tree Cap",
+        "ImageUrl":"https://i.ibb.co/rKBDvJX/palm-tree-cap.png",
+        "Price":14
+    },
+    {
+        "id":7,
+        "Name":"Red Beanie",
+        "ImageUrl":"https://i.ibb.co/bLB646Z/red-beanie.png",
+        "Price":18
+    },
+    {
+        "id":8,
+        "Name":"Walf Cap",
+        "ImageUrl":"https://i.ibb.co/1f2nWMM/wolf-cap.png",
+        "Price":14
+    },
+    {
+        "id":9,
+        "Name":"Blue Snap Back",
+        "ImageUrl":"https://i.ibb.co/X2VJP2W/blue-snapback.png",
+        "Price":16
+    }
+]
